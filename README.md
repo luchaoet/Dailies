@@ -14,48 +14,34 @@
 
 ## 2019.12.24
 
-[可以把 Windows 的文件路径，转换成 unix 标准正斜线的路径](https://github.com/jonschlinkert/normalize-path)
-
-[阮一峰写的《中文技术文档的写作规范》](https://github.com/ruanyf/document-style-guide/blob/master/docs/text.md)
-
-[图文讲解，TCP 为啥要 3 次握手和 4 次挥手？握两次手不行吗？](https://mp.weixin.qq.com/s?__biz=MzU2Njg3OTU1Mg==&mid=2247484969&idx=1&sn=dbe8ef6e6e711ddce55699a392a018b2)
-
-[dashify 可以将驼峰风格的字符串转换成横线分割的字符串，很实用的功能](https://github.com/jonschlinkert/dashify)
+- [可以把 Windows 的文件路径，转换成 unix 标准正斜线的路径](https://github.com/jonschlinkert/normalize-path)
+- [阮一峰写的《中文技术文档的写作规范》](https://github.com/ruanyf/document-style-guide/blob/master/docs/text.md)
+- [图文讲解，TCP 为啥要 3 次握手和 4 次挥手？握两次手不行吗？](https://mp.weixin.qq.com/s?__biz=MzU2Njg3OTU1Mg==&mid=2247484969&idx=1&sn=dbe8ef6e6e711ddce55699a392a018b2)
+- [dashify 可以将驼峰风格的字符串转换成横线分割的字符串，很实用的功能](https://github.com/jonschlinkert/dashify)
 
 ## 2019.12.23
 
-[avaScript 引擎 V8 发布 v8.0 版本](https://v8.dev/blog/v8-release-80)
-
-[浏览器与前端性能灵魂之问](https://juejin.im/post/5df5bcea6fb9a016091def69)
-
-[为团队打造的专业文档协作工具：Coda 2.0](https://sspai.com/post/57133)
-
-[mermaid 使用类似于 Markdown 的语法生成流程图的库](https://github.com/knsv/mermaid)
-
-[empty-dir 可以很方便的检查目录是否为空](https://github.com/gulpjs/empty-dir)
+- [avaScript 引擎 V8 发布 v8.0 版本](https://v8.dev/blog/v8-release-80)
+- [浏览器与前端性能灵魂之问](https://juejin.im/post/5df5bcea6fb9a016091def69)
+- [为团队打造的专业文档协作工具：Coda 2.0](https://sspai.com/post/57133)
+- [mermaid 使用类似于 Markdown 的语法生成流程图的库](https://github.com/knsv/mermaid)
+- [empty-dir 可以很方便的检查目录是否为空](https://github.com/gulpjs/empty-dir)
 
 ## 2019.12.20
 
-[从 0 开始教你学会 K8S](https://github.com/knrt10/kubernetes-basicLearning)
-
-[虽然 JavaScript 是单线程，但在 Node.js 里由于其异步的特性使得 IO 可以并行。AVA 利用这个优点让你的测试可以并发执行，这对于 IO 繁重的测试特别有用](https://github.com/avajs/ava-docs/blob/master/zh_CN/readme.md)
-
-[各种日期级别的彩色符号](https://github.com/sindresorhus/log-symbols)
+- [从 0 开始教你学会 K8S](https://github.com/knrt10/kubernetes-basicLearning)
+- [虽然 JavaScript 是单线程，但在 Node.js 里由于其异步的特性使得 IO 可以并行。AVA 利用这个优点让你的测试可以并发执行，这对于 IO 繁重的测试特别有用](https://github.com/avajs/ava-docs/blob/master/zh_CN/readme.md)
+- [各种日期级别的彩色符号](https://github.com/sindresorhus/log-symbols)
 
 ## 2019.12.19
 
-[Webpack 进度条插件](https://github.com/clessg/progress-bar-webpack-plugin)
-
-[可以让终端的字体，支持彩色](https://github.com/chalk/ansi-styles)
-
-[cli-ui 用它可以很方便的创建命令行工具](https://github.com/yargs/cliui)
+- [Webpack 进度条插件](https://github.com/clessg/progress-bar-webpack-plugin)
+- [可以让终端的字体，支持彩色](https://github.com/chalk/ansi-styles)
+- [cli-ui 用它可以很方便的创建命令行工具](https://github.com/yargs/cliui)
 
 ## 2019.12.18
 
-[深入理解 JavaScript 原型和闭包系列](https://www.cnblogs.com/wangfupeng1988/p/4001284.html)
-
-[使用 React Native 开发 Windows 10 应用](https://www.youtube.com/watch?v=FS77XGEKzzQ)
-
-[CSS-In-JS 是（emotion、styled-components）更小的替代方案，整个库的大小是 1KB](https://github.com/cristianbote/goober)
-
-[可以在命令行中，设置字体风格，比如背景色、加粗、字体倾斜、横线、下划线、删除线、滚动等等效果](https://github.com/medikoo/cli-color#readme)
+- [深入理解 JavaScript 原型和闭包系列](https://www.cnblogs.com/wangfupeng1988/p/4001284.html)
+- [使用 React Native 开发 Windows 10 应用](https://www.youtube.com/watch?v=FS77XGEKzzQ)
+- [CSS-In-JS 是（emotion、styled-components）更小的替代方案，整个库的大小是 1KB](https://github.com/cristianbote/goober)
+- [可以在命令行中，设置字体风格，比如背景色、加粗、字体倾斜、横线、下划线、删除线、滚动等等效果](https://github.com/medikoo/cli-color#readme)
