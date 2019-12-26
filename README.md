@@ -1,9 +1,13 @@
 # zaobao
 
+## 2019-12-27
+
+- [webpack 原理分析与性能优化](https://juejin.im/post/5e02c524f265da33e347fe61)
+
 ## 2019-12-26
 
 - [HTTP/2 与 HTTP/3 的新特性](https://segmentfault.com/a/1190000020714686)
-[作为技术人员，在考虑是否加入哪家公司时，可以在面试结束时问面试官这些话](https://github.com/yifeikong/reverse-interview-zh)
+- [作为技术人员，在考虑是否加入哪家公司时，可以在面试结束时问面试官这些话](https://github.com/yifeikong/reverse-interview-zh)
 - [ES6 全部特性，目前涵盖了 ES2015、ES2016、ES2017、ES2018、ES2019](https://juejin.im/post/5d9bf530518825427b27639d)
 
 ## 2019.12.25
