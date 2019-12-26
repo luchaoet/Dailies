@@ -2,19 +2,15 @@
 
 ## 2019-12-26
 
-[HTTP/2 与 HTTP/3 的新特性](https://segmentfault.com/a/1190000020714686)
-
+- [HTTP/2 与 HTTP/3 的新特性](https://segmentfault.com/a/1190000020714686)
 [作为技术人员，在考虑是否加入哪家公司时，可以在面试结束时问面试官这些话](https://github.com/yifeikong/reverse-interview-zh)
-
-[ES6 全部特性，目前涵盖了 ES2015、ES2016、ES2017、ES2018、ES2019](https://juejin.im/post/5d9bf530518825427b27639d)
+- [ES6 全部特性，目前涵盖了 ES2015、ES2016、ES2017、ES2018、ES2019](https://juejin.im/post/5d9bf530518825427b27639d)
 
 ## 2019.12.25
 
-[VS Code 正则表达式辅助工具，在写正则表达式时右侧能实时的看到匹配效果](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
-
-[网友根据 The State of JavaScript 2019 的数据，给出了关于 2019 年 JavaScript 现状的 7 个洞察](https://changelog.com/posts/7-insights-from-the-state-of-js-2019)
-
-[mermaid 使用类似于 Markdown 的语法生成流程图的库](https://github.com/knsv/mermaid)
+- [VS Code 正则表达式辅助工具，在写正则表达式时右侧能实时的看到匹配效果](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
+- [网友根据 The State of JavaScript 2019 的数据，给出了关于 2019 年 JavaScript 现状的 7 个洞察](https://changelog.com/posts/7-insights-from-the-state-of-js-2019)
+- [mermaid 使用类似于 Markdown 的语法生成流程图的库](https://github.com/knsv/mermaid)
 
 ## 2019.12.24
 
