@@ -1,8 +1,22 @@
 # zaobao
 
+## 2019-12-30
+
+- [socket.io 即时通信](https://juejin.im/post/5bce886af265da0ac07c8ef8)
+
+- [Github 徽章整理](https://blog.csdn.net/u011192270/article/details/51788886)
+
+- [如何向开源项目贡献自己的代码和协作](https://blog.csdn.net/javagaorui5944/article/details/52976365)
+
 ## 2019-12-27
 
+- [Node.js葵花宝典](https://segmentfault.com/a/1190000021412027)
+
+- [Node - 从0基础到实战企业官网](https://juejin.im/post/5c1f8e52f265da6170071e43)
+
 - [webpack 原理分析与性能优化](https://juejin.im/post/5e02c524f265da33e347fe61)
+
+- [手把手搭建个人博客](https://www.jianshu.com/p/0ee86c7c877d)
 
 ## 2019-12-26
 
