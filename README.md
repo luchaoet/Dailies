@@ -6,7 +6,7 @@
 
 - [计算机学习笔记，整理的非常好](https://github.com/CyC2018/CS-Notes)
 
-- nginx反向代理](https://www.kancloud.cn/hfpp2012/nginx-tutorial/467012)
+- [nginx反向代理](https://www.kancloud.cn/hfpp2012/nginx-tutorial/467012)
 
 - [taiko 自动化操作 Chrome 浏览器](https://github.com/getgauge/taiko)
 
