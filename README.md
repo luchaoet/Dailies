@@ -1,20 +1,20 @@
 # Dailies
 
-### 2020.01.03
+## 2020.01.03
 
 - [如何绕过图片防盗链，在自己网站引用别人网站的图片？](https://zhuanlan.zhihu.com/p/37930991)
 - [反爬虫破解](https://segmentfault.com/a/1190000021420186)
 - [程序员应该具备哪些好习惯](https://segmentfault.com/a/1190000021371188)
 - [gitHub年度报告](https://octoverse.github.com)
 
-### 2020.01.02
+## 2020.01.02
 
 - [git commit时使用emoji表情](https://github.com/liuchengxu/git-commit-emoji-cn)
 - [nginx配置在线生成](https://www.digitalocean.com/community/tools/nginx)
 - [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial)
 - [Markdown语法](https://github.com/luchaoet/README)
 
-### 2019.12.31
+## 2019.12.31
 
 - [JavaScript 日期处理类库Moment.js](http://momentjs.cn)
 - [计算机学习笔记，整理的非常好](https://github.com/CyC2018/CS-Notes)
