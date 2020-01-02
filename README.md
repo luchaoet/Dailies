@@ -1,5 +1,12 @@
 # zaobao
 
+### 2020-02-02
+
+- [git commit时使用emoji表情](https://github.com/liuchengxu/git-commit-emoji-cn)
+- [nginx配置在线生成](https://www.digitalocean.com/community/tools/nginx)
+- [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial)
+- [Markdown语法](https://github.com/luchaoet/README)
+
 ### 2019-12-31
 
 - [JavaScript 日期处理类库Moment.js](http://momentjs.cn)
