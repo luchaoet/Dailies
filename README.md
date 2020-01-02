@@ -1,40 +1,40 @@
 # Dailies
 
-### 2020/01/03
+### 2020.01.03
 
 - [如何绕过图片防盗链，在自己网站引用别人网站的图片？](https://zhuanlan.zhihu.com/p/37930991)
 - [反爬虫破解](https://segmentfault.com/a/1190000021420186)
 - [程序员应该具备哪些好习惯](https://segmentfault.com/a/1190000021371188)
 - [gitHub年度报告](https://octoverse.github.com)
 
-### 2020-01-02
+### 2020.01.02
 
 - [git commit时使用emoji表情](https://github.com/liuchengxu/git-commit-emoji-cn)
 - [nginx配置在线生成](https://www.digitalocean.com/community/tools/nginx)
 - [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial)
 - [Markdown语法](https://github.com/luchaoet/README)
 
-### 2019-12-31
+### 2019.12.31
 
 - [JavaScript 日期处理类库Moment.js](http://momentjs.cn)
 - [计算机学习笔记，整理的非常好](https://github.com/CyC2018/CS-Notes)
 - [nginx反向代理](https://www.kancloud.cn/hfpp2012/nginx-tutorial/467012)
 - [taiko 自动化操作 Chrome 浏览器](https://github.com/getgauge/taiko)
 
-## 2019-12-30
+## 2019.12.30
 
 - [socket.io 即时通信](https://juejin.im/post/5bce886af265da0ac07c8ef8)
 - [Github 徽章整理](https://blog.csdn.net/u011192270/article/details/51788886)
 - [如何向开源项目贡献自己的代码和协作](https://blog.csdn.net/javagaorui5944/article/details/52976365)
 
-## 2019-12-27
+## 2019.12.27
 
 - [Node.js葵花宝典](https://segmentfault.com/a/1190000021412027)
 - [Node - 从0基础到实战企业官网](https://juejin.im/post/5c1f8e52f265da6170071e43)
 - [webpack 原理分析与性能优化](https://juejin.im/post/5e02c524f265da33e347fe61)
 - [手把手搭建个人博客](https://www.jianshu.com/p/0ee86c7c877d)
 
-## 2019-12-26
+## 2019.12.26
 
 - [HTTP/2 与 HTTP/3 的新特性](https://segmentfault.com/a/1190000020714686)
 - [作为技术人员，在考虑是否加入哪家公司时，可以在面试结束时问面试官这些话](https://github.com/yifeikong/reverse-interview-zh)
